@@ -199,7 +199,4 @@ class UserController extends Controller
             'data'=>$data
         ]);
     }
-    public function test(){
-        
-    }
 }
