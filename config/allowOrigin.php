@@ -10,6 +10,9 @@ return [
     'http://192.168.1.141:8081',
     'http://192.168.1.143:8081',
     'https://lian.fengniaotuangou.cn',
-    'http://shop.test:8080'
+    'http://shop.test:8080',
+    'http://feng.fengniaotuangou.cn',
+    'https://feng.fengniaotuangou.cn'
+
 //    'http://a.com',
 ];
